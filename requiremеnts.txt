@@ -1,0 +1,8 @@
+import requests, pprint, urllib, json
+from datetime import datetime
+from pprint import pprint
+from urllib.parse import urljoin
+from Photo import Photo
+requests~=2.27.1
+from apivk  import VkAPI
+from APIYa import YaAPI
